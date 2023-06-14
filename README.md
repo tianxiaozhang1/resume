@@ -17,7 +17,7 @@ March 2021 to Present
 
 * [City Bank - modern and sleek full-stack bank website built with Django and React](https://github.com/tianxiaozhang1/citybank)
  
-  <img src="https://github.com/tianxiaozhang1/citybank/blob/main/homepage.jpg" width="525" height="400">
+  <img src="https://github.com/tianxiaozhang1/citybank/blob/main/homepage.jpg" width="525" min-height="400">
   
 * [Momenta - minimalist Instagram-like full-stack social media site built with Django and React](https://github.com/tianxiaozhang1/momenta)
 
