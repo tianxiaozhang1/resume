@@ -21,11 +21,11 @@ March 2021 to Present
   
 * [Momenta - minimalist Instagram-like full-stack social media site built with Django and React](https://github.com/tianxiaozhang1/momenta)
 
-  <img src="https://github.com/tianxiaozhang1/momenta/blob/main/screenshot3a.jpg" width="405" height="400">
+  <img src="https://github.com/tianxiaozhang1/momenta/blob/main/screenshot3a.jpg" width="405" min-height="400">
 
 * [Sudoku - the study of the popular puzzle game with four levels of difficulty reverse-engineered from solving techniques](https://github.com/tianxiaozhang1/sudoku)
 
-  <img src="https://raw.githubusercontent.com/tianxiaozhang1/sudoku/main/sudoku06a.gif" width="525" height="427">
+  <img src="https://raw.githubusercontent.com/tianxiaozhang1/sudoku/main/sudoku06a.gif" width="525" min-height="427">
 
 * [Freecell - classic Windows game](https://github.com/tianxiaozhang1/freecell)
 
@@ -33,19 +33,19 @@ March 2021 to Present
 
 * [Minesweeper - classic Windows game in both Python and Javascript](https://github.com/tianxiaozhang1/minesweeper)
 
-  <img src="https://raw.githubusercontent.com/tianxiaozhang1/minesweeper/main/minesweeper4a.gif" width="525" height="316">
+  <img src="https://raw.githubusercontent.com/tianxiaozhang1/minesweeper/main/minesweeper4a.gif" width="525" min-height="316">
 
 * [Pathfinder - implementation of breadth-first search (BFS), depth-first search (DFS), Dijkstra, and A* pathfinding algorithms](https://github.com/tianxiaozhang1/pathfinder)
 
-  <img src="https://raw.githubusercontent.com/tianxiaozhang1/pathfinder/main/dijkstra.gif" width="525" height="295">
+  <img src="https://raw.githubusercontent.com/tianxiaozhang1/pathfinder/main/dijkstra.gif" width="525" min-height="295">
 
 * [Sorting - visualization of bubble sort, heap sort, merge and quick sort](https://github.com/tianxiaozhang1/sorting)
 
-  <img src="https://raw.githubusercontent.com/tianxiaozhang1/sorting/main/quick.gif" width="525" height="295">
+  <img src="https://raw.githubusercontent.com/tianxiaozhang1/sorting/main/quick.gif" width="525" min-height="295">
   
 * [TDice - a local version of a network multi-player game KDice (which is based on Risk the board game) with AI added](https://github.com/tianxiaozhang1/tdice)
 
-  <img src="https://github.com/tianxiaozhang1/tdice/blob/main/screenshot02.png" width="525" height="310">
+  <img src="https://github.com/tianxiaozhang1/tdice/blob/main/screenshot02.png" width="525" min-height="310">
 
 ## Wedding Photographer
 AGI Studios - Toronto, ON
