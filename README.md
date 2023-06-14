@@ -29,7 +29,7 @@ March 2021 to Present
 
 * [Freecell - classic Windows game](https://github.com/tianxiaozhang1/freecell)
 
-  <img src="https://raw.githubusercontent.com/tianxiaozhang1/Freecell/main/freecell06.gif" width="525" height="341">
+  <img src="https://raw.githubusercontent.com/tianxiaozhang1/Freecell/main/freecell06.gif" width="525" min-height="341">
 
 * [Minesweeper - classic Windows game in both Python and Javascript](https://github.com/tianxiaozhang1/minesweeper)
 
